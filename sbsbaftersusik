@@ -1,0 +1,10 @@
+{
+    "IsEnter": false,
+    "Llang": ["Turkish", "Portuguese"],
+    "Timez": ["Istanbul", "Turkey", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Urilsz": 
+    [ 
+          { "Lang":"Turkish", "Link": ""},
+          { "Lang":"Portuguese", "Link": ""}
+    ]
+ }
